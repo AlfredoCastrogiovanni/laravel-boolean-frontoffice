@@ -17,6 +17,9 @@ import { RouterLink } from 'vue-router';
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
+                        <RouterLink to="/cocktails" class="nav-link active">Cocktails</RouterLink>
+                    </li>
+                    <li class="nav-item">
                         <RouterLink to="/about" class="nav-link active">About</RouterLink>
                     </li>
                     <li class="nav-item">
