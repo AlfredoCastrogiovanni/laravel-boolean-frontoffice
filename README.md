@@ -1,29 +1,8 @@
-# laravel-boolean-frontoffice
+# Vue BoolBnB
+### Descrizione
+Vue BoolBnB è l'interfaccia frontend per il progetto BoolBnB, sviluppata utilizzando il framework Vue.js. Offre agli utenti un'esperienza visivamente accattivante e intuitiva per la navigazione, la ricerca e la prenotazione di alloggi. Con funzionalità come l'autenticazione degli utenti, le opzioni avanzate di ricerca e filtro, un processo di prenotazione diretto e sistemi integrati di messaggistica e recensioni, Vue BoolBnB offre un percorso utente senza soluzione di continuità dall'inizio alla fine.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+### Funzionalità
+- **Autenticazione Utente:** Funzionalità sicura di registrazione, accesso e logout.
+- **Ricerca e Filtro Avanzati:** Gli utenti possono cercare alloggi in base a posizione, fascia di prezzo, servizi, ecc.
+- **Sistema di Messaggistica:** Sistema di messaggistica integrato per la comunicazione tra proprietari di immobili e utenti.
